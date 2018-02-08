@@ -1,0 +1,32 @@
+.track{
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+    padding: 10px;
+}
+
+.track-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.track-image{
+    flex: 1;
+
+}
+
+.track-info{
+    flex: 1;
+    padding-top: 10px;
+}
+
+.track-play{
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.track-text{
+
+}
